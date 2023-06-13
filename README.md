@@ -1,2 +1,2 @@
 # ecommerceJee
-Our project for JEE class
+My project for JEE class
